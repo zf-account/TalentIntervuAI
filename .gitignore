@@ -1,0 +1,7 @@
+demo.py
+data/knowledge_base
+data/uploads
+data/vector_db
+PROJECT_SUMMARY.md
+pyproject.toml
+quick_start.py
