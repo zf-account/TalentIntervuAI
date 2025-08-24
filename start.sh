@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "🚀 启动 NexaFlow 项目..."
+echo "🚀 启动 TalentIntervuAI 项目..."
 
 # 检查Python版本
 python_version=$(python3 --version 2>&1 | grep -oP '\d+\.\d+')

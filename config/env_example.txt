@@ -4,7 +4,7 @@ OPENAI_MODEL=gpt-3.5-turbo
 OPENAI_EMBEDDING_MODEL=text-embedding-ada-002
 
 # 应用配置
-APP_NAME=NexaFlow
+APP_NAME=TalentIntervuAI
 APP_VERSION=1.0.0
 DEBUG=True
 ENVIRONMENT=development

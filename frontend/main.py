@@ -4,7 +4,7 @@ from datetime import datetime
 
 # 页面配置
 st.set_page_config(
-    page_title="NexaFlow - AI面试助手",
+    page_title="TalentIntervuAI - AI面试助手",
     page_icon="🚀",
     layout="wide"
 )
@@ -18,7 +18,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 def main():
-    st.markdown('<h1 class="main-header">NexaFlow</h1>', unsafe_allow_html=True)
+    st.markdown('<h1 class="main-header">TalentIntervuAI</h1>', unsafe_allow_html=True)
     st.markdown('<p style="text-align: center; font-size: 1.5rem;">垂域私人AI面试助手</p>', unsafe_allow_html=True)
     
     # 功能选择

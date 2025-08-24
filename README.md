@@ -1,4 +1,4 @@
-# NexaFlow - 垂域私人AI面试助手
+# TalentIntervuAI - 垂域私人AI面试助手
 
 基于RAG（检索增强生成）+私有知识库构建的垂域私人AI助手，帮助用户优化简历、诊断知识漏洞、进行模拟面试，并提供个性化学习建议。
 
@@ -22,7 +22,7 @@
 ## 📁 项目结构
 
 ```
-NexaFlow/
+TalentIntervuAI/
 ├── backend/                 # 后端API服务
 │   ├── app/
 │   │   ├── api/            # API路由

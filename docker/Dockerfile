@@ -25,7 +25,7 @@ EXPOSE 8000 8501
 
 
 RUN echo '#!/bin/bash\n\
-echo "Starting NexaFlow..."\n\
+echo "Starting TalentIntervuAI..."\n\
 cd /app/backend && python main.py &\n\
 cd /app/frontend && streamlit run main.py --server.port 8501 --server.address 0.0.0.0 &\n\
 wait' > /app/start.sh && chmod +x /app/start.sh
